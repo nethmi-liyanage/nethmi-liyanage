@@ -54,8 +54,8 @@
 <div align="center">
 <a href="https://github.com/nethmi-liyanage">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nethmi-liyanage&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nethmi-liyanage&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nethmi-liyanage&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nethmi-liyanage&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nethmi-liyanage&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nethmi-liyanage&theme=1150" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nethmi-liyanage&theme=1150" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nethmi-liyanage&theme=1150" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nethmi-liyanage&theme=1150" height="180em" />
 </div>
